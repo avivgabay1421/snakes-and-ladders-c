@@ -26,6 +26,7 @@ The player interacts with snakes and ladders and continues until reaching the fi
 ## How to Run
 
 Compile: gcc snakes_and_ladders.c -o game
+
 Run: ./game
 
 ## Output
